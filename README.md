@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Machine Learning, Cyber-Security
 - 🌱 I’m currently learning C/C++, Python, Java
 <!-- 💞️ I’m looking to collaborate on ...-->
-- 📫 Discord: extremecreator20
+- 📫 Twitter/X: @XtremeCreator20
 - 😄 Pronouns: He/Him
 <!-- ⚡ Fun fact: ...-->
 
